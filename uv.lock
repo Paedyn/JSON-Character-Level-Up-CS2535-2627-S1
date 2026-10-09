@@ -1,0 +1,8 @@
+version = 1
+revision = 3
+requires-python = ">=3.11"
+
+[[package]]
+name = "json-character-level-up-cs2535-2627-s1"
+version = "0.1.0"
+source = { virtual = "." }
