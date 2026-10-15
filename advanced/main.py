@@ -11,7 +11,7 @@ while True:
     except ValueError:
         print("Please enter a number.")
     except FileNotFoundError:
-        print("Please enter a valid character.")
+        print("Please enter a valid file.")
 
 
 
